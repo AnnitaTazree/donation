@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+    font-family: 'Inter', sans-serif;
+}
+.head-start{
+
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    padding-top: 300px;
+   
+   
+}
+.head-padding{
+
+    padding-bottom: 50px;
+}
+.container{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    background-position: relative;
+
+
+}
+.heading-part{
+
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+.link-button{
+
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    
+
+}
