@@ -131,3 +131,35 @@ hr{
 .half-width img{
     width: 100%;
 }
+.email-part{
+    margin-left: 200px;
+    display: inline-block;
+    box-shadow: 10px 10px 10px grey;
+    background-color:rgb(218, 210, 144);
+    padding: 100px 300px;
+
+}
+.email{
+    padding: 10px 100px;
+    background-color: rgb(199, 194, 194);
+    border: 2px solid rgb(199, 194, 194);
+    border-radius: 10px;
+}
+.subscribe{
+background-color: rgb(204, 39, 9);
+color: white;
+padding: 10px 30px;
+border: rgb(204, 39, 9);
+border-radius: 10px;
+}
+footer{
+    text-align: center;
+    background-color:rgb(2, 2, 22);
+    color: grey;
+    padding: 50px;
+}
+.different-font{
+    font-family: 'Italianno', cursive; ;
+    color: #FF5959;
+    font-size: 50px;
+}
